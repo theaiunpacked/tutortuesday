@@ -54,7 +54,7 @@ No fine-tuning. No cloud vector DB subscription. No PhD required.
 
 ```bash
 git clone https://github.com/theaiunpacked/tutortuesday.git
-cd rag-claude
+cd tutortuesday/rag-claude
 ```
 
 **2. Install dependencies**
