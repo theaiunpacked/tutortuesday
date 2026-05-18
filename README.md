@@ -54,7 +54,7 @@ No fine-tuning. No cloud vector DB subscription. No PhD required.
 
 ```bash
 git clone https://github.com/theaiunpacked/tutortuesday.git
-cd tutortuesday/rag-claude
+cd tutortuesday/rag_claude
 ```
 
 **2. Install dependencies**
@@ -92,7 +92,7 @@ Then type any question about your document at the prompt.
 ## Project Structure
 
 ```
-rag-claude/
+rag_claude/
 │
 ├── rag_claude.py          # Main script — full pipeline in one file
 ├── config.py              # Configuration (PDF path, model, chunk size)
@@ -156,7 +156,7 @@ TOP_K_RESULTS = 4
 ```python
 # RAG System using Claude API
 # The AI Unpacked — Tutor Tuesday
-# github.com/yourusername/rag-claude
+# github.com/theaiunpacked/tutortuesday/rag_claude
 
 import os
 from langchain.document_loaders import PyPDFLoader
