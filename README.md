@@ -53,7 +53,7 @@ No fine-tuning. No cloud vector DB subscription. No PhD required.
 **1. Clone the repo**
 
 ```bash
-git clone https://github.com/yourusername/rag-claude.git
+git clone https://github.com/theaiunpacked/tutortuesday.git
 cd rag-claude
 ```
 
