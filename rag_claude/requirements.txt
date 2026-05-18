@@ -1,0 +1,1 @@
+pip install anthropic langchain langchain-anthropic langchain-community faiss-cpu pypdf sentence-transformers
